@@ -9,9 +9,9 @@ $$BMI = \frac{Mass}{Height^2}.$$
 And after it give you the meaning of your BMI.
 ## App screen shot:
 ### Home :
-![img](https://github.com/ahbarabdellah/BMI-APP/blob/main/images/home page.png?raw=true) 
+![img](https://github.com/ahbarabdellah/BMI-APP/blob/main/images/homepage.png?raw=true) 
 ### Result :
-![img](https://github.com/ahbarabdellah/BMI-APP/blob/main/images/result.png.png?raw=true)
+![img](https://github.com/ahbarabdellah/BMI-APP/blob/main/images/result.png?raw=true)
 ### about :
 ![img](https://github.com/ahbarabdellah/BMI-APP/blob/main/images/about.png?raw=true)|
 
