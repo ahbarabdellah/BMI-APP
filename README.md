@@ -1,8 +1,23 @@
-# bmiapp
+# BMI APP With flutter framework
+## Description :
+This is an app calculate the BMI factor wichi is :
+$$BMI = \frac{Mass}{Height^2}.$$
+    - Height  (cm)
+    - Mass    (kg) 
+</br>
 
-A new Flutter project.
+And after it give you the meaning of your BMI.
+## Result :
 
-## Getting Started
+
+|Home page|Result page|About page|
+----------|-----------|----------|
+|![img]('images\about.png') |![img]('images\about.png')|![img]('images\about.png')|
+
+
+
+
+## Getting Started :
 
 This project is a starting point for a Flutter application.
 
