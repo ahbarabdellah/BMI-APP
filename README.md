@@ -7,11 +7,8 @@ $$BMI = \frac{Mass}{Height^2}.$$
 </br>
 
 And after it give you the meaning of your BMI.
-## Result :
+## App screen shot:
 
-
-|Home page|Result page|About page|
-----------|-----------|----------|
 |![img]('https://github.com/ahbarabdellah/BMI-APP/blob/main/images/home page.png') |![img]('https://github.com/ahbarabdellah/BMI-APP/blob/main/images/result.png.png')|![img]("https://github.com/ahbarabdellah/BMI-APP/blob/main/images/about.png")|
 
 
