@@ -12,7 +12,7 @@ And after it give you the meaning of your BMI.
 
 |Home page|Result page|About page|
 ----------|-----------|----------|
-|![img]('images\about.png') |![img]('images\about.png')|![img]('images\about.png')|
+|![img]('https://github.com/ahbarabdellah/BMI-APP/blob/main/images/home page.png') |![img]('https://github.com/ahbarabdellah/BMI-APP/blob/main/images/result.png.png')|![img]('https://github.com/ahbarabdellah/BMI-APP/blob/main/images/about.png')|
 
 
 
